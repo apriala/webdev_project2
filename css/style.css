@@ -33,7 +33,7 @@ body {
 h1 {
   position: absolute;
   left: 600px;
-  top: 15px;
+  top: 40px;
   font-size: 2em;
   font-family: 'Lucida Console', monospace;
   color: #000000;
@@ -47,6 +47,7 @@ h2 {
 }
 
 ul{
+  list-style-type: none;
   font-size: 1em;
   font-family: 'Roboto';
   color: #000000;
